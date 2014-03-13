@@ -6,7 +6,7 @@ This is the kitchensink html5/mboile JBoss Quickstart app.
 Running on OpenShift
 --------------------
 
-Create an account at http://openshift.redhat.com/
+Create an account at https://www.openshift.com
 
 Create a jbossas application
 
